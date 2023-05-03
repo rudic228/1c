@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a59f10d5-d8d9-40e2-8ada-9123e5a3f873">
+  <producedTypes>
+    <objectType typeId="964c7109-87a4-4fd4-98b6-62fd94e72279" valueTypeId="71793c20-34ee-4d14-bc31-a895c4a145d5"/>
+    <refType typeId="c7632ea0-a71e-4980-b150-be248aed130b" valueTypeId="8b5e21dc-aead-4647-aa68-ba95dcc7b77c"/>
+    <selectionType typeId="aa4fab43-274f-4029-ab18-0b9bf6a22947" valueTypeId="00bf8afb-d003-43da-894b-1aac87b174ae"/>
+    <listType typeId="158aa34a-aad7-4aa6-9113-5306ea475f96" valueTypeId="43bf9168-18c7-451c-9a81-d6f1435422e5"/>
+    <managerType typeId="30039f58-ad2c-4a80-868e-ae53970330b4" valueTypeId="5216af9e-182d-4615-8cf1-7af3ed681d41"/>
+  </producedTypes>
+  <name>НачислениеЗарплаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Начисление зарплаты</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.НачислениеЗарплаты.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>

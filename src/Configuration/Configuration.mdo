@@ -39,4 +39,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <documents>Document.Документ</documents>
+  <documents>Document.НачислениеЗарплаты</documents>
 </mdclass:Configuration>
